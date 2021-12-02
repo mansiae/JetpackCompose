@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="../../../../layout/compose-model-1634621008139.xml" value="0.31503378378378377" />
+        <entry key="../../../../layout/compose-model-1635220676320.xml" value="0.3141891891891892" />
+        <entry key="../../../../layout/compose-model-1635319092470.xml" value="0.15572742474916387" />
+        <entry key="../../../../layout/compose-model-1635319130978.xml" value="0.1" />
+        <entry key="../../../../layout/compose-model-1635319135790.xml" value="1.4326923076923077" />
+        <entry key="../../../../layout/compose-model-1635319159172.xml" value="0.1" />
+        <entry key="../../../../layout/compose-model-1635319185123.xml" value="0.15572742474916387" />
+        <entry key="../../../../layout/compose-model-1635319240223.xml" value="0.1" />
+        <entry key="../../../../layout/compose-model-1635319322990.xml" value="0.15572742474916387" />
+        <entry key="../../../../layout/compose-model-1635826906599.xml" value="0.3141891891891892" />
+        <entry key="../../../../layout/compose-model-1635826937925.xml" value="0.3141891891891892" />
+        <entry key="app/src/main/res/drawable-anydpi-v26/ic_launcher_background.xml" value="0.3765625" />
+        <entry key="app/src/main/res/drawable/ic_jetnews_logo.xml" value="0.3765625" />
+        <entry key="app/src/main/res/drawable/ic_jetnews_wordmark.xml" value="0.3765625" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
